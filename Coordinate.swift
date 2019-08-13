@@ -2,8 +2,8 @@
 //  Coordinate.swift
 //  Stormy
 //
-//  Created by Screencast on 5/23/18.
-//  Copyright © 2018 Treehouse. All rights reserved.
+//  Created by Aize Igbinakenzua on 2019-01-11.
+//  Copyright © 2018 Aize Igbinakenzua. All rights reserved.
 //
 
 import Foundation
