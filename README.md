@@ -1,2 +1,1 @@
-# ios-project-2
-Weather app
+# Weather app
